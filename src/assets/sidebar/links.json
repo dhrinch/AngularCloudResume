@@ -1,0 +1,16 @@
+{
+    "menu": [
+      { "href": "/header", "fragment": "home" },
+      { "href": "/about", "fragment": "about" },
+      { "href": "/experience", "fragment": "experience" },
+      { "href": "/education", "fragment": "education" },    
+      { "href": "/contact", "fragment": "contact" }
+    ],
+    
+    "socials" : [
+      { "href" : "https://github.com/dhrinch" },
+      { "href" : "#" },
+      { "href" : "http://www.linkedin.com/in/denys-grinchenko" }
+    ]    
+  }
+  

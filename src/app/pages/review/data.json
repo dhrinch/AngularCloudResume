@@ -1,0 +1,6 @@
+{ "itemArray": [
+    {"img": "../../assets/img/review-1.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci. Donec molestie velit id libero blandit, quis suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis. Ut tempor tellus eu sem pharetra feugiat.","name" :"Client Name", "profession":"Profession"},
+    {"img": "../../assets/img/review-2.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci. Donec molestie velit id libero blandit, quis suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis. Ut tempor tellus eu sem pharetra feugiat.","name" :"Client Name", "profession":"Profession"},
+    {"img": "../../assets/img/review-3.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci. Donec molestie velit id libero blandit, quis suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis. Ut tempor tellus eu sem pharetra feugiat.","name" :"Client Name", "profession":"Profession"}
+    ]
+}

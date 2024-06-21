@@ -1,0 +1,19 @@
+{
+  "menu": [
+    { "icon": "fa fa-home" },
+    { "icon": "fa fa-address-card" },
+    { "icon": "fa fa-star" },
+    { "icon": "fa fa-certificate" },
+    { "icon": "fa fa-tasks" },
+    { "icon": "fa fa-file-archive" },
+    { "icon": "fa fa-binoculars" },
+    { "icon": "fa fa-envelope" }
+  ],
+
+  "socials": [
+    { "icon": "fab fa-github" },
+    { "icon": "fab fa-facebook-f" },
+    { "icon": "fab fa-linkedin-in" }
+  ]
+}
+  

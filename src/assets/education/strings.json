@@ -1,0 +1,32 @@
+{
+    "title" : "Education",
+
+    "1" : {
+        "degree" : "Master of English Language and Literature",
+        "name" : "Kirovograd State Pedagogical University (Ukraine, Kropyvnytskyi)",
+        "year" : "2003"
+    },
+
+    "2" : {
+        "degree" : "Bachelor of Software Engineering",
+        "name" : "National University 'Kyiv Ihor Sikorsky Polytechnic Institute'",
+        "year" : "2019"
+    },
+
+    "3" : {
+        "name" : "ISTQB Foundation Level Certification",
+        "year" : "2019"
+    },
+
+    "4" : {
+        "degree" : "Internship in Test Automation (.NET, Selenium) and Java Development",
+        "name" : "EPAM Systems"
+    },
+    
+    "5" : {
+        "degree" : "Full Stack .NET Cloud Developer Program",
+        "name" : "Humber College Institute of Technology and Advanced Learning, Toronto, ON",
+        "year" : "2024"
+    }
+}
+    

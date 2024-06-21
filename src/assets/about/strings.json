@@ -1,0 +1,42 @@
+{
+    "title": "About Me",
+    "img": {
+      "url": "../../../../assets/img/about.jpg",
+      "alt": "Image"
+    },
+    "description": [
+        "ISTQB-certified Software Quality Engineer, with experience of working within an agile environment, good understanding of the QA processes, methodologies and software testing lifecycle.",
+        "Bachelor's degree in computer science; completed Full Stack .NET Cloud Developer Program at Humber College, expanding full stack programming technologies and skills.",
+        "Experienced in functional, manual, automated testing in both web and mobile applications, test case management and defect tracking tools, testing REST API endpoints with Postman.",
+        "Passionate and curious about technologies and tools, demonstrated strong learning abilities and pick up new systems / technologies quickly.",
+        "Excellent communication and collaboration skills, strong analytical and problem-solving skills. Detail-oriented with proven ability to multitask with focus on quality.",
+        "Capable of working independently and with cross-functional teams, in a fully remote environment.",
+        "Fluent in English, Polish, Ukrainian, Russian, French (beginner)."
+    ],
+    "buttonHire": {
+      "class": "btn",
+      "href": "#",
+      "text": "Hire Me"
+    },
+    "skillsLeft": [
+      {
+        "skillName": "Design",
+        "percent": 85
+      },
+      {
+        "skillName": "SEO",
+        "percent": 95
+      }
+    ],
+    "skillsRight": [
+      {
+        "skillName": "Development",
+        "percent": 90
+      },
+      {
+        "skillName": "Marketing",
+        "percent": 85
+      }
+    ]
+  }
+  

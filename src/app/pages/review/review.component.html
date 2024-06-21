@@ -1,0 +1,29 @@
+<div class="review" id="review">
+    <div class="content-inner">
+        <div class="content-header">
+            <h2>Review</h2>
+        </div>
+        <div class="row align-items-center review-slider">
+            <ngb-carousel>
+                <ng-template ngbSlide *ngFor="let review of reviews">
+                <div class="col-md-12">
+                    <div class="review-slider-item">
+                        <div class="review-text">
+                            <p>
+                                {{review.text}}
+                            </p>
+                        </div>
+                        <div class="review-img">
+                                <img [src]="review.img" alt="Image">
+                            <div class="review-name">
+                                <h3>{{review.name}}</h3>
+                                <p>{{review.profession}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                </ng-template>
+            </ngb-carousel>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+<!-- About Start -->
+<div class="about" id="about">
+    <div class="content-inner">
+        <div class="content-header">
+            <h2>{{aboutObject.title}}</h2>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-6 col-lg-5">
+                <img [src]="aboutObject.img.url" [alt]="aboutObject.img.alt">
+            </div>
+            <div class="col-md-6 col-lg-7">
+                <ul>
+                    <li *ngFor="let desc of aboutObject.description">{{ desc }}</li>
+                  </ul>
+                <a [class]="aboutObject.buttonHire.class" href="aboutObject.buttonHire.href">{{aboutObject.buttonHire.text}}</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                   <app-skill  [skills] = "aboutObject.skillsLeft"></app-skill>
+            </div>
+            <div class="col-md-6">
+                <app-skill [skills] = "aboutObject.skillsRight"></app-skill>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->

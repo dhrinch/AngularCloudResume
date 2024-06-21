@@ -1,0 +1,13 @@
+{
+    "img" : {
+    "url" : "../../../assets/img/profile.jpg",
+    "alt" : "Image"
+},
+    "menu" : [
+      { "name" : "Home" },
+      { "name" : "About" },        
+      { "name" : "Experience" },
+      { "name" : "Education" },      
+      { "name" : "Contact" }
+    ]
+}
